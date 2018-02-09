@@ -197,7 +197,11 @@ const translations = {
         'log-out': 'Uitloggen',
         'welcome-text': 'Je kunt je nu inschrijven voor evenementen!',
         'not-found': '404 Pagina niet gevonden'
+    },
+    de: {
+        'not-found': '404 Pagina niet gevonden'
     }
+    
 }
 
 export default translations
